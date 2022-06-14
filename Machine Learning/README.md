@@ -8,8 +8,8 @@ This data set provides information to help you predict what behavior will help y
 
 The dataset includes information about:
 <ul>
-<li>Customers who left within the last month – the column is called Churn</li>
-<li>Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device    protection, tech support, and streaming TV and movies</li>
-<li>Customer account information – how long they had been a customer, contract, payment method, paperless billing, monthly charges, and total charges</li>
-<li>Demographic info about customers – gender, age range, and if they have partners and dependents</li>
+<li> Customers who left within the last month – the column is called Churn</li>
+<li> Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device    protection, tech support, and streaming TV and movies</li>
+<li> Customer account information – how long they had been a customer, contract, payment method, paperless billing, monthly charges, and total charges</li>
+<li> Demographic info about customers – gender, age range, and if they have partners and dependents</li>
 </ul>
