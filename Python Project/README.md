@@ -26,3 +26,23 @@ The MP3 player is a device for playing and listening to digital audio files, whi
 <li> Button() widget is used to create a button. We want the buttons in our main window so the input root is given. Then the text which will be displayed on the button is specified and at last in the command input a function is given which will be called when the button is clicked.</li>
 <li> Menu() widget is displayed just under the title bar, it is used to conveniently access various operations. We are going to access Add songs and Delete songs for our playlist, upon clicking addsongs and deletesong functions are called respectively.</li>
 </ul>
+
+## Algorithm
+
+<ol>
+<li>Import the libraries.</li>
+<li>Create an object of the tkinter and Pygame libraries.</li>
+<li>Create a window using Tkinter object.</li>
+<li>Add buttons that provide different functionalities.</li>
+<ul>
+<li>Add a song</li>
+<li>Play the song</li>
+<li>Pause the song</li>
+<li>Play previous song</li>
+<li>Play next song</li>
+ </ul>
+<li>Add path from where playlist should be taken.</li>
+<li>Add label to display the song’s information.</li>
+<li>Display screen will display the details of the entire playlist.</li>
+<li>Configure the buttons of play, pause, resume, stop.</li>
+</ol>
