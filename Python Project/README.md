@@ -13,9 +13,9 @@ The MP3 player is a device for playing and listening to digital audio files, whi
 </p>
 
 <ul>
-<li><b> Tk()</b> is a top level widget that is used to create the main application window in which we will be building our python project.</li>
-<li><b> title()</b> method is used to give a name to python mp3 player application which is displayed at the top.
-<li><b> mixer.init()</b> is used to initialize the mixer module so that we can use it’s various functions in our application.
+<li><b> Tk() </b> is a top level widget that is used to create the main application window in which we will be building our python project.</li>
+<li><b> title() </b> method is used to give a name to python mp3 player application which is displayed at the top.
+<li><b> mixer.init() </b> is used to initialize the mixer module so that we can use it’s various functions in our application.
 <li><b> Listbox()</b> widget is used to create a listbox in which we will store our songs.
 <ul>
 <li> We have passed various parameters, first is the root specifying that the widget should be placed in the python mp3 player window.</li>
