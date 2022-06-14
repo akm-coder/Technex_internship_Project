@@ -30,3 +30,12 @@ We built our model using LogisticRegression from the Scikit-learn package. This 
 <p>
 The version of Logistic Regression in Scikit-learn, support regularization. Regularization is a technique used to solve the overfitting problem of machine learning models. C parameter indicates inverse of regularization strength which must be a positive float. Smaller values specify stronger regularization.
  </p>
+
+## Evaluation
+
+For the evaluation of Logistic Regression, we used:
+<ul>
+<li> Jaccard index</li>
+<li> Confusion matrix</li>
+<li> Log loss</li>
+</ul>
