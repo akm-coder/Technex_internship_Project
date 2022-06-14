@@ -4,7 +4,7 @@
 It is important for every business to keep their customers happy. In order to increase their profit Margins they have to increase their customers by giving them best experience of product and the services. In this project we will be looking after the services that the customer has taken and his age and for how long the customer has been using their service and based on those parameters whether the customer is still using their services or has stopped using their services can be determined.
 </p>
 
-<p
+<p>
 A telecommunications company is concerned about the number of customers leaving their land-line business for cable competitors. They need to understand who is leaving. Imagine that you are an analyst at this company and you have to find out who is leaving and why.
 </p>
 
