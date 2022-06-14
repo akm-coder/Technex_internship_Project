@@ -13,18 +13,18 @@ The MP3 player is a device for playing and listening to digital audio files, whi
 </p>
 
 <ul>
-<li>Tk() is a top level widget that is used to create the main application window in which we will be building our python project.</li>
-<li> title() method is used to give a name to python mp3 player application which is displayed at the top.
-<li> mixer.init() is used to initialize the mixer module so that we can use it’s various functions in our application.
-<li> Listbox() widget is used to create a listbox in which we will store our songs.
+<li><b>Tk()</b> is a top level widget that is used to create the main application window in which we will be building our python project.</li>
+<li><b>title()</b> method is used to give a name to python mp3 player application which is displayed at the top.
+<li><b>mixer.init()</b> is used to initialize the mixer module so that we can use it’s various functions in our application.
+<li><b>Listbox()</b> widget is used to create a listbox in which we will store our songs.
 <ul>
 <li> We have passed various parameters, first is the root specifying that the widget should be placed in the python mp3 player window.</li>
 <li> Then, bg is for background color, fg is for foreground color.</li>
 <li> selectbackground and selectforeground basically change the background and the foreground color of a particular item upon selecting it.</li>
 </ul>
-<li> grid() widget is a geometry manager which organizes the widgets properly in a grid-based fashion before placing it in the root window. columnspan=9 gives a space of 9 columns to our listbox widget.</li>
-<li> Button() widget is used to create a button. We want the buttons in our main window so the input root is given. Then the text which will be displayed on the button is specified and at last in the command input a function is given which will be called when the button is clicked.</li>
-<li> Menu() widget is displayed just under the title bar, it is used to conveniently access various operations. We are going to access Add songs and Delete songs for our playlist, upon clicking addsongs and deletesong functions are called respectively.</li>
+<li><b>grid()</b> widget is a geometry manager which organizes the widgets properly in a grid-based fashion before placing it in the root window. columnspan=9 gives a space of 9 columns to our listbox widget.</li>
+<li><b>Button()</b> widget is used to create a button. We want the buttons in our main window so the input root is given. Then the text which will be displayed on the button is specified and at last in the command input a function is given which will be called when the button is clicked.</li>
+<li><b>Menu()</b> widget is displayed just under the title bar, it is used to conveniently access various operations. We are going to access Add songs and Delete songs for our playlist, upon clicking addsongs and deletesong functions are called respectively.</li>
 </ul>
 
 ## Algorithm
