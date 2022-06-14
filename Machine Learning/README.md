@@ -20,3 +20,13 @@ The dataset includes information about:
 <li> Customer account information – how long they had been a customer, contract, payment method, paperless billing, monthly charges, and total charges</li>
 <li> Demographic info about customers – gender, age range, and if they have partners and dependents</li>
 </ul>
+
+## Modeling (Logistic Regression with Scikit-learn)
+
+<p>
+We built our model using LogisticRegression from the Scikit-learn package. This function implements logistic regression and can use different numerical optimizers to find parameters, including ‘newton-cg’, ‘lbfgs’, ‘liblinear’, ‘sag’, ‘saga’ solvers. You can find extensive information about the pros and cons of these optimizers if you search it in the internet.
+</p>
+
+<p>
+The version of Logistic Regression in Scikit-learn, support regularization. Regularization is a technique used to solve the overfitting problem of machine learning models. C parameter indicates inverse of regularization strength which must be a positive float. Smaller values specify stronger regularization.
+ </p>
