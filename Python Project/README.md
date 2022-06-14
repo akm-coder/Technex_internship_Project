@@ -47,4 +47,5 @@ The MP3 player is a device for playing and listening to digital audio files, whi
 <li>Configure the buttons of play, pause, resume, stop.</li>
 </ol>
 
-<span align="center">![image](https://user-images.githubusercontent.com/53977573/173591639-864e049d-6390-411e-9041-c5712d8d97c7.png)</span>
+## Output
+![image](https://user-images.githubusercontent.com/53977573/173591639-864e049d-6390-411e-9041-c5712d8d97c7.png)
