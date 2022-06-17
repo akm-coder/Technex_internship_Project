@@ -40,6 +40,15 @@ In the data set, there are several different cases where the booster did not lan
 In this, we will mainly convert those outcomes into Training Labels with 1 means the booster successfully landed 0 means it was unsuccessful.
 </p>
 
+## Exploring and Preparing Data
+<p>
+In this, we will perform Exploratory Data Analysis and Feature Engineering.
+</p>
+
+Perform exploratory Data Analysis and Feature Engineering using Pandas and Matplotlib
+<li>Exploratory Data Analysis</li>
+<li>Exploratory Data Analysis</li>
+
 ## Machine Learning Prediction
 <p>
 Performed  exploratory Data Analysis and determined Training Labels
