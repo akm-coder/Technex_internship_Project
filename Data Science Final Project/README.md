@@ -10,3 +10,16 @@ we predicted if the Falcon 9 first stage will land successfully. SpaceX advertis
 ## Collecting the data
 ## Web Scraping
 ## Data Wrangling
+## Machine Learning Prediction
+<p>
+Performed  exploratory Data Analysis and determined Training Labels
+</p>
+<u>
+<li> created a column for the class</li>
+<li> Standardized the data</li>
+<li> Split into training data and test data</li>
+</u>
+<p>
+Found the best Hyperparameter for SVM, Classification Trees and Logistic Regression
+</p>
+<li>Found the method to performs best using test data</li>
