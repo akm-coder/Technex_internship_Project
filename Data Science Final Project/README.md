@@ -11,11 +11,13 @@ we predicted if the Falcon 9 first stage will land successfully. SpaceX advertis
 <p>
 In this task, we will make a get request to the SpaceX API. We will also do some basic data wrangling and formating.
 </p>
+
 <ul>
 <li>Request to the SpaceX API</li>
 <li>Clean the requested data</li>
 <li>Replacing the Missing values</li>
 </ul>
+
 ## Web Scraping
 ## Data Wrangling
 ## Machine Learning Prediction
