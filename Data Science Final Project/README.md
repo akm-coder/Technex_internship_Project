@@ -30,6 +30,7 @@ Web scrap Falcon 9 launch records with BeautifulSoup:
 <li>Parse the table and convert it into a Pandas data frame</li>
 </ul>
 </p>
+
 ## Data Wrangling
 ## Machine Learning Prediction
 <p>
