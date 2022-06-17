@@ -19,6 +19,17 @@ In this task, we will make a get request to the SpaceX API. We will also do some
 </ul>
 
 ## Web Scraping
+<p>
+In this task, we will  performe web scraping to collect Falcon 9 historical launch records from a Wikipedia page titled List of Falcon 9 and Falcon Heavy launches
+</p>
+https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches
+<p>
+Web scrap Falcon 9 launch records with BeautifulSoup:
+<ul>
+<li>Extract a Falcon 9 launch records HTML table from Wikipedia</li>
+<li>Parse the table and convert it into a Pandas data frame</li>
+</ul>
+</p>
 ## Data Wrangling
 ## Machine Learning Prediction
 <p>
