@@ -19,6 +19,7 @@ Performed  exploratory Data Analysis and determined Training Labels
 <li> Standardized the data</li>
 <li> Split into training data and test data</li>
 </u>
+
 <p>
 Found the best Hyperparameter for SVM, Classification Trees and Logistic Regression
 </p>
